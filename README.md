@@ -13,4 +13,17 @@ I build security research tooling for software-supply-chain assurance, endpoint 
 
 Go, Python, Windows endpoint telemetry, Linux/eBPF, detection engineering, software-supply-chain security, SLSA/in-toto, and authorized purple-team validation.
 
+## Training
+
+Completion certificates issued by the Information and Communication Technologies Authority (BTK):
+
+- Introduction to Cybersecurity — December 2023
+- Python Programming, Beginner to Advanced — November 2023
+- Google Cloud Computing — August 2024
+- Python and TensorFlow for Data Science — August 2024
+- C# — November 2023
+- HTML5 Web Development — November 2023
+- React Web Programming — August 2024
+- Unreal Engine 5.2 — February 2025
+
 All offensive validation documented in these repositories is scoped to project-owned fixtures, isolated virtual networks, disposable containers, or systems with explicit authorization. Results distinguish reproduced evidence from planned or inconclusive work.
