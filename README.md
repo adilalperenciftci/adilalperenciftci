@@ -11,6 +11,7 @@ runtime boundaries | workload identity | protocol invariants | upstream engineer
 **Systems Security Engineer** working where kernels, identity, cryptographic protocols, and production control planes meet.
 
 [![Profile](https://img.shields.io/badge/GitHub-adilalperenciftci-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/adilalperenciftci)
+[![Portfolio](https://img.shields.io/badge/Research-portfolio-0b1220?style=for-the-badge&logo=githubpages&logoColor=f59e0b)](https://adilalperenciftci.github.io/)
 [![Linux](https://img.shields.io/badge/Linux-runtime%20security-0b1220?style=for-the-badge&logo=linux&logoColor=f59e0b)](https://www.kernel.org/)
 [![eBPF](https://img.shields.io/badge/eBPF-telemetry-0b1220?style=for-the-badge&logoColor=22d3ee)](https://ebpf.io/)
 [![Go](https://img.shields.io/badge/Go-control%20planes-0b1220?style=for-the-badge&logo=go&logoColor=22d3ee)](https://go.dev/)
@@ -84,4 +85,4 @@ Builds and runtime tests execute in isolated lab environments. Patch scope stays
 
 ## Contact and cryptographic identity
 
-Use [GitHub](https://github.com/adilalperenciftci) for project-specific engineering correspondence. No OpenPGP public key is currently published on this account; do not trust a third-party key as mine without an independently verified fingerprint.
+Use the [research portfolio](https://adilalperenciftci.github.io/) for the consolidated engineering record and [GitHub](https://github.com/adilalperenciftci) for project-specific correspondence. No OpenPGP public key is currently published on this account; do not trust a third-party key as mine without an independently verified fingerprint.
